@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="shu">数学</string>
+    <string name="yu">语文</string>
+    <string name="ying">英语</string>
+    <string name="zong">总学分：</string>
+    <string name="ji">计算机</string>
+    <string name="ping">评级</string>
+    <string name="pinggu">成绩评估</string>
+    <string name="fenxi">分析报告</string>
+    <string name="pq">你的总体成绩表现为优秀，但存在偏科现象，请注意！</string>
+    <string name="good">建议：成绩表现优异，继续努力</string>
+    <string name="bad">建议：你已经在挂科边缘了！！！</string>
+    <string name="notice1">请输入你的成绩</string>
+    <string name="notice2">请输入学分</string>
+</resources>
